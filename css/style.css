@@ -9,3 +9,7 @@ body {
 .footer-text {
     font-size: 13px;
 }
+
+.section-two img {
+    width: 20%;
+}
