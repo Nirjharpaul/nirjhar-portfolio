@@ -13,3 +13,8 @@ body {
 .section-two img {
     width: 20%;
 }
+
+.people-says img {
+    width: 40%;
+    padding: 20px;
+}
